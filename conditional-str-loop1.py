@@ -34,3 +34,4 @@ for num in range(1,11):
 
 print("sum of the numbers are : "+str(sum))
 print("avr of the numbers are : "+str(sum/10))
+
